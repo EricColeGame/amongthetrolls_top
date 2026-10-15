@@ -19,18 +19,20 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Among the Trolls Wiki",
+  shortName: "Among the Trolls",
+  logoText: "AT",
+  tagline: "Survival, Crafting & Finnish Mythology Guides",
+  description: "Explore Among the Trolls with survival tips, crafting guides, Finnish mythology, forest exploration walkthroughs, gameplay details, and the latest game news.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://amongthetrolls.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://amongthetrolls.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/1675260/Among_the_Trolls/",
+  heroVideoId: "EwIQBA0omco", // Official Among the Trolls trailer (505 Pulse / AvantGarden Games)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/fkC24Q3ymj",
+    youtube: "https://www.youtube.com/@505Pulse",
+    twitter: "https://x.com/AmongTheTrolls",
+    tiktok: "https://www.tiktok.com/@amongthetrolls",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
