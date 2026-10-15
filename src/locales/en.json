@@ -43,288 +43,392 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Your first in-game day, in order: scout the cabin clearing, bank loose materials, craft a cutting tool and fire, and have a roof and a full stomach before dark."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Crafting Basics",
+          "description": "Turn wood, stone, and plant fiber into the blade, fire kit, shelter, and storage that make every later trip survivable."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Survival Tips",
+          "description": "Manage health, stamina, hunger, thirst, and warmth, build a defensible camp, and read trolls, spirits, and wildlife before you commit to a fight."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Among the Trolls."
+          "title": "System Requirements",
+          "description": "Compare the official minimum and recommended PC specs, storage needs, controller support, and platform status before you buy."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Among the Trolls Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Crafting Guide",
+        "Vaki and Lykky",
+        "System Requirements"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "Survival basics, first-day priorities, gathering, crafting, and base building for your first hours in the wild.",
+          "href": "/guide/among-the-trolls-beginner-guide"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Crafting Guide",
+          "description": "Materials, the four-stage crafting loop, and how Vaki and Lykky shape what you prepare.",
+          "href": "/mechanics/among-the-trolls-crafting"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Survival Guide",
+          "description": "Health, stamina, hunger, thirst, warmth, and the build order that keeps a run alive.",
+          "href": "/guide/among-the-trolls-survival-guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Finnish Mythology",
+          "description": "Peikko trolls, Hiisi groves, Nakki water spirits, and the Kalevala roots behind the game.",
+          "href": "/mechanics/among-the-trolls-finnish-mythology"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Release",
+          "title": "Release Date",
+          "description": "Launch date, price, discount window, and what shipped on day one.",
+          "href": "/release/among-the-trolls-release-date"
+        },
+        {
+          "badge": "Specs",
+          "title": "System Requirements",
+          "description": "Official minimum and recommended PC specs, storage, and Steam Deck status.",
+          "href": "/release/among-the-trolls-system-requirements"
+        },
+        {
+          "badge": "Community",
+          "title": "Official Discord",
+          "description": "Where the Among the Trolls community trades survival routes and patch notes.",
+          "href": "/community/among-the-trolls-discord"
+        },
+        {
+          "badge": "Media",
+          "title": "Official Launch Trailer",
+          "description": "The launch trailer and what it shows of the Finnish wilderness and its creatures.",
+          "href": "/media/among-the-trolls-official-launch-trailer"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Among the Trolls?",
       "paragraphs": [
-        "Among the Trolls is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Among the Trolls is a first-person survival adventure set in the misty Finnish wilderness. You play as a grandchild returning to a remote family cabin, only to find your grandfather missing and a forest full of foraging, building, and folklore that watches you from between the pines. Developer Avantgarden SRL builds the world around Finnish mythology rather than zombies or raiders, so the threats you meet are territorial trolls, forest spirits, and weather that turns on you without warning.",
+        "Progress runs through crafting and preparation: gather wood, stone, and plant fiber, raise a shelter before dark, and balance two folklore systems, Vaki (magic) and Lykky (luck), that shape what you can attempt and how risky each trip becomes. The game shipped at full launch on October 14, 2026 for Windows PC on Steam as a single-player campaign at $19.99, with 14 Steam achievements, full English audio, and subtitles across 11 interface languages. Our Among the Trolls wiki gathers the systems, the mythology, and the practical survival routes in one place."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Avantgarden SRL"
+        },
+        {
+          "label": "Publisher",
+          "value": "505 Pulse"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows PC / Steam"
+        },
+        {
+          "label": "Released",
+          "value": "October 14, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Survival Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Price",
+          "value": "$19.99"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Achievements",
+          "value": "14"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Languages",
+          "value": "11"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Among the Trolls Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Among the Trolls",
+      "description": "Every major Among the Trolls system in one place: beginner survival, crafting and building, Vaki and Lykky magic, the story campaign, Finnish mythology, PC requirements, and the practical tips that keep a run alive.",
       "modules": [
         {
           "order": 1,
-          "name": "Among the Trolls Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/among-the-trolls-codes",
-          "displayType": "code-box",
+          "name": "Among the Trolls Beginner Guide",
+          "description": "New to Among the Trolls? This is the order of operations for your first in-game day: scout the cabin clearing, bank loose materials, craft a cutting tool and fire, and get a roof and a full stomach before nightfall.",
+          "href": "/guide/among-the-trolls-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scout the area around the cabin and note landmarks: water, rock outcrops, and deadfall"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Collect loose materials: sticks, stones, and plant fiber from the forest floor"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Craft a cutting tool first, then a fire-starting kit for warmth and cooking"
+            },
+            {
+              "label": "4",
+              "detail": "Raise a small shelter with a fire pit and one storage box before dark"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/among-the-trolls-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Among the Trolls Crafting Guide",
+          "description": "Crafting is the spine of Among the Trolls. Learn what each material family is for, how the crafting loop is staged, and how gathered wood, stone, fiber, and animal materials become tools, shelter, storage, and travel gear.",
+          "href": "/mechanics/among-the-trolls-crafting",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Tools",
+              "detail": "A basic blade unlocks efficient wood gathering and everything that follows it"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Fire",
+              "detail": "Torches and fire pits deliver warmth, cooking, light, and safety at night"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Shelter",
+              "detail": "Rain cover, bedding, and a fire pit turn a camp into a survivable base"
+            },
+            {
+              "label": "Storage",
+              "detail": "Containers free inventory space so gathering trips stop ending early"
+            },
+            {
+              "label": "Travel",
+              "detail": "Portable light and upgraded weapons extend your safe exploration radius"
+            },
+            {
+              "label": "Ritual",
+              "detail": "Prepared light and ritual-appropriate gear answer threats a spear cannot"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/among-the-trolls-tier-list",
-          "displayType": "tier-grid",
+          "name": "Among the Trolls Survival Tips",
+          "description": "The Among the Trolls wilderness punishes rushing. Manage health, stamina, hunger, thirst, and warmth, build a camp that funnels threats, and learn how trolls, spirits, and predatory wildlife behave before you pick a fight.",
+          "href": "/guide/among-the-trolls-survival-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Warmth",
+              "detail": "Shelter and fire outrank weapons on your upgrade list for the first week"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Water",
+              "detail": "Build near a lake or stream so thirst never forces a long trek"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Food",
+              "detail": "Keep one cooked meal in reserve and top up supplies before every trip"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Stamina",
+              "detail": "Walk between tasks and spend sprinting only to escape a threat"
+            },
+            {
+              "label": "Night",
+              "detail": "Plan travel so you are back behind your perimeter before dark"
+            },
+            {
+              "label": "Retreat",
+              "detail": "Retreat early, because healing costs more resources than avoiding a fight"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/among-the-trolls-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Among the Trolls Vaki and Lykky Guide",
+          "description": "Vaki and Lykky are the two folklore forces you balance on every run. Vaki is the animistic power held by people, places, and objects; Lykky is personal fortune and your guardian spirit. Together they decide what you can attempt and when to stop pushing.",
+          "href": "/mechanics/among-the-trolls-finnish-mythology",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Vaki",
+              "detail": "A finite animistic force you spend and must replenish or respect"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Lykky",
+              "detail": "Personal fortune and a guardian spirit that swing risky outcomes"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Haltija",
+              "detail": "Guardian spirits of a place or household: greet the land before you strip it"
+            },
+            {
+              "label": "Luonto",
+              "detail": "Inner nature and born strength that shape what your character endures"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/among-the-trolls-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Among the Trolls Story and Quest Guide",
+          "description": "Follow the campaign that gives Among the Trolls its shape. Trace Anna's search for her missing grandfather through the Finnish archipelago, use craftable bridges to open new routes, and keep the story milestones in order without skipping the exploration that unlocks them.",
+          "href": "/guide/among-the-trolls-demo-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Arrive at your grandfather's remote cabin and search it for the first clues"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Follow the trail into the Finnish archipelago and map the landmarks you pass"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Build craftable bridges to open routes across water and reach new story areas"
+            },
+            {
+              "label": "4",
+              "detail": "Track Anna's family mystery through each quest beat without skipping side exploration"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/among-the-trolls-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Among the Trolls Creatures and Finnish Mythology",
+          "description": "Among the Trolls draws its cast from the Kalevala and Finnish folk belief. Compare the Peikko trolls, Hiisi groves, Nakki water spirits, and Menninkainen, and see how each one changes the way you move through the forest.",
+          "href": "/mechanics/among-the-trolls-forest-exploration",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Peikko - the namesake trolls: large, territorial, and best avoided until you have gear"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Hiisi groves and Nakki water spirits - uncanny places that punish careless routes"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Menninkainen - elusive forest folk you only spot if you slow down and watch"
+            },
+            {
+              "label": "C",
+              "detail": "Haltija and Tapio - guardian figures that reward respect over aggression"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Among the Trolls PC Requirements",
+          "description": "Check the official minimum and recommended Among the Trolls PC specifications before you buy. Compare operating system, processor, graphics card, memory, DirectX, and storage, alongside Steam Deck status, controller support, and launch pricing.",
+          "href": "/release/among-the-trolls-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 Home 64-bit on both the minimum and recommended builds"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-10400 or AMD Ryzen 5 1600 minimum; i7-10700K or Ryzen 7 4800H recommended"
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB minimum, 32 GB recommended for smoother frame pacing in dense forest"
+            },
+            {
+              "label": "GPU",
+              "detail": "GTX 1070 or RX 5600XT minimum; RTX 2080 Ti or RX 7700XT recommended"
+            },
+            {
+              "label": "Storage",
+              "detail": "30 GB available space, with an SSD strongly preferred at both tiers"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Among the Trolls Tips and Tricks",
+          "description": "The habits that separate a clean run from a long walk back to your body. Learn reliable gathering routes, when to reinvest materials, why defense beats decoration, and how to plan travel around the day and night cycle.",
+          "href": "/mechanics/among-the-trolls-survival-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Routes",
+              "detail": "Learn two or three reliable gathering routes and cycle them instead of wandering"
+            },
+            {
+              "label": "Stock",
+              "detail": "Convert surplus materials into tools and upgrades as soon as a recipe unlocks"
+            },
+            {
+              "label": "Defense",
+              "detail": "Build the perimeter before the decorations; an unfinished longhouse protects nothing"
+            },
+            {
+              "label": "Daylight",
+              "detail": "Plan every trip so you are back inside before the light goes"
+            },
+            {
+              "label": "Light",
+              "detail": "Carry a torch and spare fuel, because night visibility drops sharply"
+            },
+            {
+              "label": "Patience",
+              "detail": "Information beats aggression: watch a patrol before you commit"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Among the Trolls.",
+      "title": "Among the Trolls FAQ",
+      "description": "Straight answers to the questions new players ask most about Among the Trolls.",
       "items": [
         {
           "question": "What is Among the Trolls?",
-          "answer": "Among the Trolls is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Among the Trolls is a first-person survival adventure from developer Avantgarden SRL, published by 505 Pulse and 505 Games. You return to a remote Finnish cabin to find your grandfather missing, then survive the wilderness around it by gathering, crafting, building shelter, and reading the folklore-driven threats that share the forest."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Among the Trolls multiplayer?",
+          "answer": "No. Among the Trolls is single-player only at launch, with no online co-op, local split-screen, or Remote Play Together support. Anna's story is written for one player, while Steam Cloud saves, Family Sharing, and 14 Steam achievements are all supported."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How much does Among the Trolls cost?",
+          "answer": "Among the Trolls launched at $19.99, with a 15% introductory discount that brought it to $16.99 through October 28. The separate Among the Trolls Soundtrack is $3.99, and there is no deluxe edition or season pass."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are the Among the Trolls system requirements?",
+          "answer": "Minimum is Windows 10 Home 64-bit, an Intel Core i5-10400 or AMD Ryzen 5 1600, 16 GB RAM, a GTX 1070 or RX 5600XT, DirectX 12, and 30 GB of storage. Recommended raises that to an i7-10700K or Ryzen 7 4800H, 32 GB RAM, and an RTX 2080 Ti or RX 7700XT. An SSD is preferred at both tiers."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which platforms can run Among the Trolls?",
+          "answer": "Among the Trolls launched on Windows PC through Steam. There are no PlayStation, Xbox, or Switch store pages at launch, macOS and Linux are not listed, and Valve rates Steam Deck compatibility as unknown. Xbox controllers are supported."
+        },
+        {
+          "question": "What are Vaki and Lykky in Among the Trolls?",
+          "answer": "Vaki is the animistic power held by people, places, and objects, and it works as a resource you spend and must respect. Lykky is personal fortune and your guardian spirit, a volatile modifier on risky outcomes. Together they decide whether a plan survives contact with the forest."
+        },
+        {
+          "question": "Is there a tutorial in Among the Trolls?",
+          "answer": "Not in the hand-holding sense. The area around the starting cabin works as a soft tutorial because it is stocked with the basic materials you need, so spend your first half hour there learning the crafting and survival menus before heading deeper into the forest."
         }
       ]
     },
