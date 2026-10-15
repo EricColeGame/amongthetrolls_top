@@ -7,6 +7,12 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media",
     "home": "Home",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
@@ -439,13 +445,36 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Among the Trolls Guides",
+    "overviewDescription": "Beginner guides, walkthroughs, and survival tips for Among the Trolls, covering your first days in the forest, how to make a campfire, and the full demo playthrough."
+  },
+  "release": {
+    "overviewTitle": "Among the Trolls Release Info",
+    "overviewDescription": "Release dates, early access status, demo details, the Steam page, controller support, and system requirements for Among the Trolls."
+  },
+  "mechanics": {
+    "overviewTitle": "Among the Trolls Mechanics",
+    "overviewDescription": "How Among the Trolls plays: survival gameplay, crafting, campfires, open-world forest exploration, and the Finnish mythology that shapes the world."
+  },
+  "platforms": {
+    "overviewTitle": "Among the Trolls Platforms",
+    "overviewDescription": "Where to play Among the Trolls, including PS5, Xbox Series X, Switch, and how multiplayer co-op works with friends."
+  },
+  "community": {
+    "overviewTitle": "Among the Trolls Community",
+    "overviewDescription": "Official Among the Trolls community hubs, developer updates, Discord, Reddit, and the game soundtrack."
+  },
+  "media": {
+    "overviewTitle": "Among the Trolls Media",
+    "overviewDescription": "Among the Trolls trailers and videos, including the announcement trailer, gameplay trailer, and official launch trailer."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "latestRelease": "Latest Release",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Steam",
+    "viewAllRelease": "View release details",
+    "playOnSteam": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -472,10 +501,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuides": "Survival Mechanics",
+    "platformsGuides": "Platforms & Multiplayer",
+    "releaseGuides": "Release & Demo"
   }
 }
