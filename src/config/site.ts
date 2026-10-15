@@ -7,10 +7,13 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  officialWebsite?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
     youtube?: string;
+    steam?: string;
+    reddit?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -25,12 +28,15 @@ export const siteConfig: SiteConfig = {
   tagline: "Survival, Crafting & Finnish Mythology Guides",
   description: "Explore Among the Trolls with survival tips, crafting guides, Finnish mythology, forest exploration walkthroughs, gameplay details, and the latest game news.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://amongthetrolls.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://amongthetrolls.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@amongthetrolls.top",
   gameUrl: "https://store.steampowered.com/app/1675260/Among_the_Trolls/",
+  officialWebsite: "https://amongthetrolls.com/",
   heroVideoId: "EwIQBA0omco", // Official Among the Trolls trailer (505 Pulse / AvantGarden Games)
   social: {
     discord: "https://discord.gg/fkC24Q3ymj",
+    steam: "https://steamcommunity.com/app/1675260",
     youtube: "https://www.youtube.com/@505Pulse",
+    reddit: "https://www.reddit.com/r/AmongTheTrolls/",
     twitter: "https://x.com/AmongTheTrolls",
     tiktok: "https://www.tiktok.com/@amongthetrolls",
   },
