@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Inter } from "next/font/google";
 import { hasLocale } from "next-intl";
-import { getMessages, setRequestLocale } from "next-intl/server";
+import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
@@ -22,10 +22,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const t = await getTranslations({ locale, namespace: "home.meta" });
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Among the Trolls Wiki", template: "%s" },
-    description: "Explore Among the Trolls with survival tips, crafting guides, Finnish mythology, forest exploration walkthroughs, gameplay details, and the latest game news.",
+    title: { default: t("title"), template: "%s" },
+    description: t("description"),
     openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
     twitter: { card: "summary_large_image", images: [image] },
     manifest: "/manifest.json",
@@ -71,7 +72,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
           />
         )}
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
-          <NextIntlClientProvider messages={messages}>
+          <NextIntlClientProvider locale={locale} messages={messages}>
             <JsonLd data={organization} />
             <SiteHeader locale={locale} />
             {children}

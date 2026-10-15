@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "Among the Trolls Wiki",
+    "shortName": "Among the Trolls",
+    "tagline": "Survival-, Crafting- & Finnische-Mythologie-Guides",
+    "description": "Entdecke Among the Trolls mit Survival-Tipps, Crafting-Guides, finnischer Mythologie, Walkthroughs zur Waldkundung, Gameplay-Details und den neuesten Spielnachrichten.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "mechanics": "Mechanik",
+    "platforms": "Plattformen",
+    "community": "Community",
+    "media": "Medien",
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "Among the Trolls Wiki – Survival, Crafting & Guides",
+      "description": "Entdecke Among the Trolls mit Survival-Tipps, Crafting-Guides, finnischer Mythologie, Walkthroughs zur Waldkundung, Gameplay-Details und den neuesten Spielnachrichten."
+    },
+    "hero": {
+      "eyebrow": "Finnisches Folklore-Survival-Abenteuer",
+      "title": "Among the Trolls Wiki",
+      "description": "Erkunde die geheimnisvollen Wälder Finnlands, überlebe übernatürliche Begegnungen, fertige wichtige Werkzeuge, lüfte die alte Mythologie und löse das Rätsel um deinen verschwundenen Großvater.",
+      "stats": [
+        "Erschienen am 14. Okt. 2026",
+        "PC / Steam",
+        "AvantGarden Games",
+        "Einzelspieler"
+      ],
+      "primaryCta": "Einsteigerguide",
+      "secondaryCta": "Crafting-Guide",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch Among the Trolls",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerguide",
+          "description": "Dein erster Spieltag, Schritt für Schritt: erkunde die Lichtung an der Hütte, sammle loses Material, fertige Schneidwerkzeug und Feuer und habe vor Einbruch der Dunkelheit ein Dach und einen vollen Magen."
+        },
+        {
+          "number": "2",
+          "title": "Crafting-Grundlagen",
+          "description": "Verwandle Holz, Stein und Pflanzenfasern in Klinge, Feuerzeug, Unterkunft und Lagerplatz, die jede spätere Tour überstehbar machen."
+        },
+        {
+          "number": "3",
+          "title": "Survival-Tipps",
+          "description": "Verwalte Gesundheit, Ausdauer, Hunger, Durst und Wärme, baue ein verteidigungsfähiges Lager und schätze Trolle, Geister und Wildtiere ein, bevor du dich auf einen Kampf einlässt."
+        },
+        {
+          "number": "4",
+          "title": "Systemanforderungen",
+          "description": "Vergleiche die offiziellen Mindest- und empfohlenen PC-Anforderungen, den Speicherbedarf, die Controller-Unterstützung und den Plattformstatus, bevor du kaufst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Angesagte Among the Trolls-Guides",
+      "quickLinks": [
+        "Einsteigerguide",
+        "Crafting-Guide",
+        "Vaki und Lykky",
+        "Systemanforderungen"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteigerguide",
+          "description": "Survival-Grundlagen, Prioritäten am ersten Tag, Sammeln, Crafting und Basenbau für deine ersten Stunden in der Wildnis.",
+          "href": "/guide/among-the-trolls-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Crafting-Guide",
+          "description": "Materialien, die vierstufige Crafting-Schleife und wie Vaki und Lykky bestimmen, was du vorbereitest.",
+          "href": "/mechanics/among-the-trolls-crafting"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Survival-Guide",
+          "description": "Gesundheit, Ausdauer, Hunger, Durst, Wärme und die Bau-Reihenfolge, die einen Run am Leben hält.",
+          "href": "/guide/among-the-trolls-survival-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Finnische Mythologie",
+          "description": "Peikko-Trolle, Hiisi-Haine, Nakki-Wassergeister und die Kalevala-Wurzeln des Spiels.",
+          "href": "/mechanics/among-the-trolls-finnish-mythology"
+        },
+        {
+          "badge": "Release",
+          "title": "Erscheinungsdatum",
+          "description": "Release-Termin, Preis, Rabattzeitraum und was zum Start erschienen ist.",
+          "href": "/release/among-the-trolls-release-date"
+        },
+        {
+          "badge": "Specs",
+          "title": "Systemanforderungen",
+          "description": "Offizielle Mindest- und empfohlene PC-Anforderungen, Speicherbedarf und Steam-Deck-Status.",
+          "href": "/release/among-the-trolls-system-requirements"
+        },
+        {
+          "badge": "Community",
+          "title": "Offizieller Discord",
+          "description": "Wo die Among the Trolls-Community Survival-Routen und Patch-Notes austauscht.",
+          "href": "/community/among-the-trolls-discord"
+        },
+        {
+          "badge": "Medien",
+          "title": "Offizieller Launch-Trailer",
+          "description": "Der Launch-Trailer und was er von der finnischen Wildnis und ihren Kreaturen zeigt.",
+          "href": "/media/among-the-trolls-official-launch-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Among the Trolls?",
+      "paragraphs": [
+        "Among the Trolls ist ein First-Person-Survival-Abenteuer in der nebligen finnischen Wildnis. Du spielst ein Enkelkind, das zu einer abgelegenen Familienhütte zurückkehrt und dort feststellt, dass der Großvater verschwunden ist – und dass der Wald voller Sammelgut, Baumöglichkeiten und Folklore ist, die dir zwischen den Kiefern zusieht. Entwickler Avantgarden SRL baut die Welt um die finnische Mythologie statt um Zombies oder Plünderer, sodass dir territoriale Trolle, Waldgeister und Wetterumschwünge ohne Vorwarnung gegenüberstehen.",
+        "Der Fortschritt läuft über Crafting und Vorbereitung: Sammle Holz, Stein und Pflanzenfasern, errichte vor Einbruch der Dunkelheit eine Unterkunft und balanciere zwei Folklore-Systeme – Vaki (Magie) und Lykky (Glück) –, die bestimmen, was du versuchen kannst und wie riskant jede Tour wird. Das Spiel erschien am 14. Oktober 2026 für Windows PC auf Steam als Einzelspieler-Kampagne für 19,99 $, mit 14 Steam-Erfolgen, englischer Sprachausgabe und Untertiteln in 11 Oberflächensprachen. Unser Among the Trolls-Wiki bündelt die Systeme, die Mythologie und die praktischen Survival-Routen an einem Ort."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Avantgarden SRL"
+        },
+        {
+          "label": "Publisher",
+          "value": "505 Pulse"
+        },
+        {
+          "label": "Plattform",
+          "value": "Windows PC / Steam"
+        },
+        {
+          "label": "Erschienen",
+          "value": "14. Oktober 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "Survival-Abenteuer"
+        },
+        {
+          "label": "Preis",
+          "value": "19,99 $"
+        },
+        {
+          "label": "Erfolge",
+          "value": "14"
+        },
+        {
+          "label": "Sprachen",
+          "value": "11"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Among the Trolls entdecken",
+      "description": "Jedes wichtige System von Among the Trolls an einem Ort: Einsteiger-Survival, Crafting und Bauen, Vaki- und Lykky-Magie, die Story-Kampagne, finnische Mythologie, PC-Anforderungen und die praktischen Tipps, die einen Run am Leben halten.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Among the Trolls Einsteigerguide",
+          "description": "Neu bei Among the Trolls? Das ist die Reihenfolge für deinen ersten Spieltag: erkunde die Lichtung an der Hütte, sammle loses Material, fertige Schneidwerkzeug und Feuer und sorge vor Einbruch der Nacht für ein Dach und einen vollen Magen.",
+          "href": "/guide/among-the-trolls-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erkunde die Umgebung der Hütte und merke dir Orientierungspunkte: Wasser, Felsvorsprünge und Totholz"
+            },
+            {
+              "label": "2",
+              "detail": "Sammle loses Material: Stöcke, Steine und Pflanzenfasern vom Waldboden"
+            },
+            {
+              "label": "3",
+              "detail": "Fertige zuerst ein Schneidwerkzeug und dann ein Feuerzeug für Wärme und Kochen"
+            },
+            {
+              "label": "4",
+              "detail": "Errichte vor Einbruch der Dunkelheit eine kleine Unterkunft mit Feuerstelle und einer Lagerkiste"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Among the Trolls Crafting-Guide",
+          "description": "Crafting ist das Rückgrat von Among the Trolls. Lerne, wofür jede Materialfamilie gut ist, wie die Crafting-Schleife aufgebaut ist und wie gesammeltes Holz, Stein, Fasern und Tiermaterialien zu Werkzeugen, Unterkunft, Lager und Reiseausrüstung werden.",
+          "href": "/mechanics/among-the-trolls-crafting",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Werkzeuge",
+              "detail": "Eine einfache Klinge schaltet effizientes Holzsammeln frei und alles, was darauf folgt"
+            },
+            {
+              "label": "Feuer",
+              "detail": "Fackeln und Feuerstellen liefern Wärme, Kochen, Licht und Sicherheit bei Nacht"
+            },
+            {
+              "label": "Unterkunft",
+              "detail": "Regenschutz, Schlafplatz und Feuerstelle machen aus einem Camp eine überlebbare Basis"
+            },
+            {
+              "label": "Lager",
+              "detail": "Behälter schaffen Inventarplatz, damit Sammeltouren nicht früh enden"
+            },
+            {
+              "label": "Reise",
+              "detail": "Tragbares Licht und verbesserte Waffen erweitern deinen sicheren Erkundungsradius"
+            },
+            {
+              "label": "Ritual",
+              "detail": "Vorbereitetes Licht und ritualtaugliche Ausrüstung beantworten Bedrohungen, gegen die ein Speer nichts ausrichtet"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Among the Trolls Survival-Tipps",
+          "description": "Die Wildnis von Among the Trolls bestraft Eile. Verwalte Gesundheit, Ausdauer, Hunger, Durst und Wärme, baue ein Lager, das Bedrohungen lenkt, und lerne das Verhalten von Trollen, Geistern und Raubwild kennen, bevor du einen Kampf beginnst.",
+          "href": "/guide/among-the-trolls-survival-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wärme",
+              "detail": "Unterkunft und Feuer stehen in der ersten Woche über den Waffen auf deiner Ausbauliste"
+            },
+            {
+              "label": "Wasser",
+              "detail": "Baue an einem See oder Bach, damit Durst keine langen Märsche erzwingt"
+            },
+            {
+              "label": "Nahrung",
+              "detail": "Halte eine gekochte Mahlzeit in Reserve und fülle die Vorräte vor jeder Tour auf"
+            },
+            {
+              "label": "Ausdauer",
+              "detail": "Gehe zwischen Aufgaben zu Fuß und setze Sprinten nur zur Flucht ein"
+            },
+            {
+              "label": "Nacht",
+              "detail": "Plane Wege so, dass du vor Einbruch der Dunkelheit hinter deinem Zaun bist"
+            },
+            {
+              "label": "Rückzug",
+              "detail": "Zieh dich früh zurück, denn Heilung kostet mehr Ressourcen als das Vermeiden eines Kampfes"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Among the Trolls Vaki- und Lykky-Guide",
+          "description": "Vaki und Lykky sind die zwei Folklore-Kräfte, die du in jedem Run ausbalancierst. Vaki ist die animistische Kraft von Menschen, Orten und Gegenständen; Lykky ist persönliches Glück und dein Schutzgeist. Zusammen bestimmen sie, was du versuchen kannst und wann du aufhören solltest.",
+          "href": "/mechanics/among-the-trolls-finnish-mythology",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vaki",
+              "detail": "Eine endliche animistische Kraft, die du verbrauchst und auffüllen oder respektieren musst"
+            },
+            {
+              "label": "Lykky",
+              "detail": "Persönliches Glück und ein Schutzgeist, die riskante Ergebnisse beeinflussen"
+            },
+            {
+              "label": "Haltija",
+              "detail": "Schutzgeister eines Ortes oder Haushalts: begrüße das Land, bevor du es ausbeutest"
+            },
+            {
+              "label": "Luonto",
+              "detail": "Innere Natur und angeborene Stärke, die bestimmen, was dein Charakter aushält"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Among the Trolls Story- und Quest-Guide",
+          "description": "Folge der Kampagne, die Among the Trolls ihre Form gibt. Verfolge Annas Suche nach ihrem verschwundenen Großvater durch den finnischen Schärengarten, nutze baubare Brücken für neue Routen und halte die Story-Meilensteine in der richtigen Reihenfolge, ohne die Erkundung zu überspringen, die sie freischaltet.",
+          "href": "/guide/among-the-trolls-demo-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Komm an der abgelegenen Hütte deines Großvaters an und suche sie nach den ersten Hinweisen ab"
+            },
+            {
+              "label": "2",
+              "detail": "Folge der Spur in den finnischen Schärengarten und kartiere die Orientierungspunkte"
+            },
+            {
+              "label": "3",
+              "detail": "Baue baubare Brücken, um Wege über das Wasser und in neue Story-Gebiete zu öffnen"
+            },
+            {
+              "label": "4",
+              "detail": "Verfolge Annas Familiengeheimnis durch jeden Quest-Abschnitt, ohne die Neben-Erkundung zu überspringen"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Among the Trolls Kreaturen und finnische Mythologie",
+          "description": "Among the Trolls bezieht sein Personal aus dem Kalevala und dem finnischen Volksglauben. Vergleiche die Peikko-Trolle, Hiisi-Haine, Nakki-Wassergeister und Menninkainen und sieh, wie jeder einzelne deine Bewegung durch den Wald verändert.",
+          "href": "/mechanics/among-the-trolls-forest-exploration",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Peikko – die namensgebenden Trolle: groß, territorial und besser gemieden, bis du ausgerüstet bist"
+            },
+            {
+              "label": "A",
+              "detail": "Hiisi-Haine und Nakki-Wassergeister – unheimliche Orte, die sorglose Routen bestrafen"
+            },
+            {
+              "label": "B",
+              "detail": "Menninkainen – scheues Waldvolk, das du nur entdeckst, wenn du langsamer wirst und beobachtest"
+            },
+            {
+              "label": "C",
+              "detail": "Haltija und Tapio – Schutzgestalten, die Respekt statt Aggression belohnen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Among the Trolls PC-Anforderungen",
+          "description": "Prüfe die offiziellen Mindest- und empfohlenen PC-Spezifikationen von Among the Trolls, bevor du kaufst. Vergleiche Betriebssystem, Prozessor, Grafikkarte, Arbeitsspeicher, DirectX und Speicher sowie Steam-Deck-Status, Controller-Unterstützung und Startpreis.",
+          "href": "/release/among-the-trolls-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Betriebssystem",
+              "detail": "Windows 10 Home 64-Bit bei Mindest- und empfohlener Konfiguration"
+            },
+            {
+              "label": "CPU",
+              "detail": "Mindestens Intel Core i5-10400 oder AMD Ryzen 5 1600; empfohlen i7-10700K oder Ryzen 7 4800H"
+            },
+            {
+              "label": "RAM",
+              "detail": "Mindestens 16 GB, empfohlen 32 GB für gleichmäßigere Bildraten im dichten Wald"
+            },
+            {
+              "label": "GPU",
+              "detail": "Mindestens GTX 1070 oder RX 5600XT; empfohlen RTX 2080 Ti oder RX 7700XT"
+            },
+            {
+              "label": "Speicher",
+              "detail": "30 GB freier Speicherplatz, wobei eine SSD in beiden Stufen klar bevorzugt wird"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Among the Trolls Tipps und Tricks",
+          "description": "Die Gewohnheiten, die einen sauberen Run von einem langen Rückweg unterscheiden. Lerne zuverlässige Sammelrouten, wann du Material reinvestierst, warum Verteidigung vor Dekoration geht und wie du Reisen um den Tag-Nacht-Zyklus planst.",
+          "href": "/mechanics/among-the-trolls-survival-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Routen",
+              "detail": "Lerne zwei oder drei zuverlässige Sammelrouten und wechsle sie, statt umherzuwandern"
+            },
+            {
+              "label": "Vorrat",
+              "detail": "Wandle überschüssiges Material in Werkzeuge und Upgrades um, sobald ein Rezept freigeschaltet ist"
+            },
+            {
+              "label": "Verteidigung",
+              "detail": "Baue den Zaun vor der Dekoration; ein unfertiges Langhaus schützt nichts"
+            },
+            {
+              "label": "Tageslicht",
+              "detail": "Plane jede Tour so, dass du vor dem Lichtverlust wieder drinnen bist"
+            },
+            {
+              "label": "Licht",
+              "detail": "Trage eine Fackel und Ersatzbrennstoff, denn die Sicht bei Nacht sinkt stark"
+            },
+            {
+              "label": "Geduld",
+              "detail": "Information schlägt Aggression: beobachte eine Patrouille, bevor du dich festlegst"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Among the Trolls FAQ",
+      "description": "Klare Antworten auf die Fragen, die neue Spieler zu Among the Trolls am häufigsten stellen.",
+      "items": [
+        {
+          "question": "Was ist Among the Trolls?",
+          "answer": "Among the Trolls ist ein First-Person-Survival-Abenteuer des Entwicklers Avantgarden SRL, veröffentlicht von 505 Pulse und 505 Games. Du kehrst zu einer abgelegenen finnischen Hütte zurück und findest deinen Großvater verschwunden – danach überlebst du in der Wildnis drumherum, indem du sammelst, fertigst, Unterkünfte baust und die folkloregetriebenen Bedrohungen des Waldes einschätzt."
+        },
+        {
+          "question": "Ist Among the Trolls ein Multiplayer-Spiel?",
+          "answer": "Nein. Among the Trolls ist zum Start reines Einzelspieler-Spiel, ohne Online-Koop, lokalen Splitscreen oder Remote Play Together. Annas Geschichte ist für einen Spieler geschrieben; Steam-Cloud-Speicherstände, Family Sharing und 14 Steam-Erfolge werden unterstützt."
+        },
+        {
+          "question": "Wie viel kostet Among the Trolls?",
+          "answer": "Among the Trolls erschien für 19,99 $, mit 15 % Einführungsrabatt, der den Preis bis zum 28. Oktober auf 16,99 $ senkte. Der separate Among the Trolls Soundtrack kostet 3,99 $, eine Deluxe-Edition oder ein Season Pass existieren nicht."
+        },
+        {
+          "question": "Wie lauten die Systemanforderungen von Among the Trolls?",
+          "answer": "Mindestens Windows 10 Home 64-Bit, ein Intel Core i5-10400 oder AMD Ryzen 5 1600, 16 GB RAM, eine GTX 1070 oder RX 5600XT, DirectX 12 und 30 GB Speicher. Empfohlen sind ein i7-10700K oder Ryzen 7 4800H, 32 GB RAM und eine RTX 2080 Ti oder RX 7700XT. Eine SSD ist in beiden Stufen zu bevorzugen."
+        },
+        {
+          "question": "Auf welchen Plattformen läuft Among the Trolls?",
+          "answer": "Among the Trolls erschien für Windows PC über Steam. Zum Start gibt es keine PlayStation-, Xbox- oder Switch-Shopseiten, macOS und Linux sind nicht gelistet, und Valve bewertet die Steam-Deck-Kompatibilität als unbekannt. Xbox-Controller werden unterstützt."
+        },
+        {
+          "question": "Was sind Vaki und Lykky in Among the Trolls?",
+          "answer": "Vaki ist die animistische Kraft von Menschen, Orten und Gegenständen und funktioniert als Ressource, die du verbrauchst und respektieren musst. Lykky ist persönliches Glück und dein Schutzgeist, ein unbeständiger Modifikator für riskante Ergebnisse. Zusammen entscheiden sie, ob ein Plan den Kontakt mit dem Wald übersteht."
+        },
+        {
+          "question": "Gibt es ein Tutorial in Among the Trolls?",
+          "answer": "Nicht im Sinne einer Rundum-Betreuung. Die Gegend um die Start-Hütte funktioniert als sanftes Tutorial, weil sie mit den nötigen Grundmaterialien bestückt ist – verbringe deine erste halbe Stunde dort, um die Crafting- und Survival-Menüs zu lernen, bevor du tiefer in den Wald gehst."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, unter den Trollen zu überleben?",
+      "description": "Vom ersten Lagerfeuer bis in die tiefsten Winkel der finnischen Wildnis – unser Community-Wiki bietet dir kostenlose, aktuelle Guides.",
+      "primary": "Einsteigerguide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Among the Trolls Guides",
+    "overviewDescription": "Einsteigerguides, Walkthroughs und Survival-Tipps für Among the Trolls – von deinen ersten Tagen im Wald über das Lagerfeuer bis zum vollständigen Demo-Durchlauf."
+  },
+  "release": {
+    "overviewTitle": "Among the Trolls Release-Infos",
+    "overviewDescription": "Release-Termine, Early-Access-Status, Demo-Details, die Steam-Seite, Controller-Unterstützung und Systemanforderungen für Among the Trolls."
+  },
+  "mechanics": {
+    "overviewTitle": "Among the Trolls Mechaniken",
+    "overviewDescription": "Wie sich Among the Trolls spielt: Survival-Gameplay, Crafting, Lagerfeuer, Open-World-Waldkundung und die finnische Mythologie, die die Welt prägt."
+  },
+  "platforms": {
+    "overviewTitle": "Among the Trolls Plattformen",
+    "overviewDescription": "Wo du Among the Trolls spielen kannst, inklusive PS5, Xbox Series X und Switch, und wie Multiplayer-Koop mit Freunden funktioniert."
+  },
+  "community": {
+    "overviewTitle": "Among the Trolls Community",
+    "overviewDescription": "Offizielle Among the Trolls-Community-Hubs, Entwickler-Updates, Discord, Reddit und der Soundtrack des Spiels."
+  },
+  "media": {
+    "overviewTitle": "Among the Trolls Medien",
+    "overviewDescription": "Trailer und Videos zu Among the Trolls, darunter der Ankündigungs-Trailer, der Gameplay-Trailer und der offizielle Launch-Trailer."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "latestRelease": "Neuestes Release",
+    "updated": "Aktualisiert",
+    "viewAllRelease": "Release-Details ansehen",
+    "playOnSteam": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Ähnliche Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundDescription": "Der gesuchte Guide wurde möglicherweise verschoben oder ist noch nicht vorhanden.",
+    "browseGuides": "Guides durchsuchen"
+  },
+  "footer": {
+    "aboutTitle": "Among the Trolls Wiki",
+    "about": "Among the Trolls Wiki ist ein unabhängiges, von Fans erstelltes Guide-Hub zu Survival-Mechaniken, Crafting, Waldkundung, finnischer Mythologie und wichtigem Spielwissen für neue wie erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Among the Trolls Wiki. Nicht mit AvantGarden Games oder 505 Pulse verbunden.",
+    "description": "First-Person-Survival-Abenteuer in der finnischen Wildnis. Erkunde, fertige und überlebe unter den Trollen.",
+    "playGame": "Among the Trolls auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialSteam": "Steam-Community",
+    "officialReddit": "Offizielles Reddit",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Website",
+    "beginnerGuide": "Einsteigerguide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "mechanicsGuides": "Survival-Mechaniken",
+    "platformsGuides": "Plattformen & Multiplayer",
+    "releaseGuides": "Release & Demo"
+  },
+  "legal": {
+    "aboutTitle": "Über uns",
+    "aboutP1": "Among the Trolls Wiki ist ein unabhängiges, von Fans erstelltes Guide-Hub zu Survival-Mechaniken, Crafting, Waldkundung, finnischer Mythologie und wichtigem Spielwissen für neue wie erfahrene Spieler.",
+    "aboutP2": "Among the Trolls ist ein First-Person-Survival-Abenteuer in der finnischen Wildnis, entwickelt von AvantGarden Games und veröffentlicht von 505 Pulse. Dieses Fan-Wiki steht in keiner Verbindung zu den Entwicklern oder Publishern.",
+    "privacyTitle": "Datenschutzerklärung",
+    "privacyP1": "Dieses Fan-Wiki bietet informative Spielguides zu Among the Trolls. Wir verlangen keine Zugangsdaten, Steam-Passwörter oder privaten Zahlungsinformationen.",
+    "privacyP2": "Analyse-, Werbe- und Hosting-Anbieter können übliche technische Informationen verarbeiten, etwa Gerätetyp, Browser, ungefähre Region und besuchte Seiten.",
+    "privacyP3": "Externe Links können zu Steam, der offiziellen Among the Trolls-Website, Discord, YouTube oder Community-Tools führen. Für diese Dienste gelten deren eigene Datenschutzbestimmungen.",
+    "termsTitle": "Nutzungsbedingungen",
+    "termsP1": "Diese Seite ist ein unabhängiges, von Fans erstelltes Guide-Hub. Die Inhalte dienen ausschließlich Informations- und Unterhaltungszwecken.",
+    "termsP2": "Spielsysteme, Crafting-Rezepte, Updates und Release-Details können sich ohne Ankündigung ändern. Prüfe wichtige Informationen immer im Spiel oder über offizielle Kanäle.",
+    "termsP3": "Mit der Nutzung dieser Seite erklärst du dich damit einverstanden, sie nicht zu missbrauchen, keinen unbefugten Zugriff zu versuchen und dieses Fan-Wiki nicht als offizielles Eigentum von AvantGarden Games oder 505 Pulse darzustellen.",
+    "copyrightTitle": "Urheberrecht",
+    "copyrightP1": "Among the Trolls, das Logo, die Artworks und zugehörige Medien gehören AvantGarden Games und 505 Pulse. Alle Marken und Urheberrechte bleiben Eigentum ihrer jeweiligen Inhaber.",
+    "copyrightP2": "Dieser Klon ist eine nicht offizielle Fan-Wiki-Umsetzung für Bildungs- und Guide-Zwecke.",
+    "copyrightP3": "Wenn du Rechte an hier gezeigten Inhalten besitzt und Bedenken hast, kontaktiere uns bitte unter support@amongthetrolls.top zur Prüfung."
+  }
+}

@@ -484,7 +484,10 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The guide you are looking for may have moved or has not been added yet.",
+    "browseGuides": "Browse Guides"
   },
   "footer": {
     "aboutTitle": "Among the Trolls Wiki",
@@ -506,5 +509,22 @@
     "mechanicsGuides": "Survival Mechanics",
     "platformsGuides": "Platforms & Multiplayer",
     "releaseGuides": "Release & Demo"
+  },
+  "legal": {
+    "aboutTitle": "About",
+    "aboutP1": "Among the Trolls Wiki is an independent fan-built guide hub covering survival mechanics, crafting, forest exploration, Finnish mythology, and essential game knowledge for new and veteran players alike.",
+    "aboutP2": "Among the Trolls is a first-person survival adventure set in the Finnish wilderness, developed by AvantGarden Games and published by 505 Pulse. This fan wiki is not affiliated with the developers or publishers.",
+    "privacyTitle": "Privacy Policy",
+    "privacyP1": "This fan wiki provides informational game guides for Among the Trolls. We do not request account credentials, Steam passwords, or private payment information.",
+    "privacyP2": "Basic analytics, advertising, and hosting providers may process standard technical information such as device type, browser, approximate region, and visited pages.",
+    "privacyP3": "External links may lead to Steam, the official Among the Trolls website, Discord, YouTube, or community tools. Those services are governed by their own privacy policies.",
+    "termsTitle": "Terms of Service",
+    "termsP1": "This site is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.",
+    "termsP2": "Game systems, crafting recipes, updates, and release details may change without notice. Always verify important information in-game or through official channels.",
+    "termsP3": "By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official AvantGarden Games or 505 Pulse property.",
+    "copyrightTitle": "Copyright",
+    "copyrightP1": "Among the Trolls, its logo, artwork, and related media belong to AvantGarden Games and 505 Pulse. All trademarks and copyrights remain the property of their respective owners.",
+    "copyrightP2": "This clone is a non-official fan wiki implementation for educational and guide presentation purposes.",
+    "copyrightP3": "If you own rights to content displayed here and have a concern, please contact us at support@amongthetrolls.top for review."
   }
 }

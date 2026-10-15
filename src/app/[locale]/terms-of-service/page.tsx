@@ -1,11 +1,15 @@
+import { getTranslations } from "next-intl/server";
 import { LegalPage } from "@/components/legal-page";
 
-export default function TermsOfServicePage() {
+export default async function TermsOfServicePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "legal" });
+
   return (
-    <LegalPage title="Terms of Service">
-      <p>This site is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.</p>
-      <p>Game systems, crafting recipes, updates, and release details may change without notice. Always verify important information in-game or through official channels.</p>
-      <p>By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official AvantGarden Games or 505 Pulse property.</p>
+    <LegalPage title={t("termsTitle")}>
+      <p>{t("termsP1")}</p>
+      <p>{t("termsP2")}</p>
+      <p>{t("termsP3")}</p>
     </LegalPage>
   );
 }

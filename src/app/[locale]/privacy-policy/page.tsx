@@ -1,11 +1,15 @@
+import { getTranslations } from "next-intl/server";
 import { LegalPage } from "@/components/legal-page";
 
-export default function PrivacyPolicyPage() {
+export default async function PrivacyPolicyPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "legal" });
+
   return (
-    <LegalPage title="Privacy Policy">
-      <p>This fan wiki provides informational game guides for Among the Trolls. We do not request account credentials, Steam passwords, or private payment information.</p>
-      <p>Basic analytics, advertising, and hosting providers may process standard technical information such as device type, browser, approximate region, and visited pages.</p>
-      <p>External links may lead to Steam, the official Among the Trolls website, Discord, YouTube, or community tools. Those services are governed by their own privacy policies.</p>
+    <LegalPage title={t("privacyTitle")}>
+      <p>{t("privacyP1")}</p>
+      <p>{t("privacyP2")}</p>
+      <p>{t("privacyP3")}</p>
     </LegalPage>
   );
 }

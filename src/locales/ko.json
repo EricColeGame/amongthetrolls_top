@@ -1,1 +1,530 @@
-{}
+{
+  "site": {
+    "name": "Among the Trolls 위키",
+    "shortName": "Among the Trolls",
+    "tagline": "생존, 제작 & 핀란드 신화 가이드",
+    "description": "생존 팁, 제작 가이드, 핀란드 신화, 숲 탐험 공략, 게임플레이 정보와 최신 게임 뉴스로 Among the Trolls를 알아보세요.",
+    "legalNotice": "비공식 팬 위키. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "release": "출시",
+    "mechanics": "게임 시스템",
+    "platforms": "플랫폼",
+    "community": "커뮤니티",
+    "media": "미디어",
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환"
+  },
+  "home": {
+    "meta": {
+      "title": "Among the Trolls 위키 - 생존, 제작 & 가이드",
+      "description": "생존 팁, 제작 가이드, 핀란드 신화, 숲 탐험 공략, 게임플레이 정보와 최신 게임 뉴스로 Among the Trolls를 알아보세요."
+    },
+    "hero": {
+      "eyebrow": "핀란드 민담 생존 어드벤처",
+      "title": "Among the Trolls 위키",
+      "description": "핀란드의 신비로운 숲을 탐험하고, 초자연적 존재와의 조우에서 살아남고, 필수 도구를 제작하고, 고대 신화를 밝히며, 실종된 할아버지의 미스터리를 풀어보세요.",
+      "stats": [
+        "2026년 10월 14일 출시",
+        "PC / Steam",
+        "AvantGarden Games",
+        "싱글 플레이어"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "제작 가이드",
+      "tertiaryCta": "Steam에서 플레이",
+      "videoLabel": "공식 트레일러"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 둘러보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "당신의 Among the Trolls 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "게임 첫날의 순서입니다. 오두막 주변 공터를 정찰하고, 흩어진 재료를 챙기고, 자르는 도구와 불을 피울 도구를 제작한 뒤, 어두워지기 전에 지붕과 배를 채우세요."
+        },
+        {
+          "number": "2",
+          "title": "제작 기초",
+          "description": "나무와 돌, 식물 섬유를 칼날과 불 피우기 도구, 은신처, 보관함으로 바꿔 이후의 모든 원정을 버틸 수 있게 만드세요."
+        },
+        {
+          "number": "3",
+          "title": "생존 팁",
+          "description": "체력, 스태미나, 배고픔, 갈증, 온기를 관리하고 방어 가능한 야영지를 세우며, 전투를 시작하기 전에 트롤과 정령, 야생동물의 행동을 파악하세요."
+        },
+        {
+          "number": "4",
+          "title": "시스템 요구 사항",
+          "description": "구매 전에 공식 최소 및 권장 PC 사양, 저장 공간, 컨트롤러 지원, 플랫폼 현황을 비교하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "많이 찾는 Among the Trolls 가이드",
+      "quickLinks": [
+        "초보자 가이드",
+        "제작 가이드",
+        "Vaki와 Lykky",
+        "시스템 요구 사항"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "생존 기본기, 첫날 우선순위, 채집, 제작, 기지 건설까지 야생에서의 첫 몇 시간을 정리했습니다.",
+          "href": "/guide/among-the-trolls-beginner-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "제작 가이드",
+          "description": "재료, 4단계 제작 루프, 그리고 Vaki와 Lykky가 준비물을 어떻게 바꾸는지 설명합니다.",
+          "href": "/mechanics/among-the-trolls-crafting"
+        },
+        {
+          "badge": "인기",
+          "title": "생존 가이드",
+          "description": "체력, 스태미나, 배고픔, 갈증, 온기와 판을 유지시켜 주는 건설 순서.",
+          "href": "/guide/among-the-trolls-survival-guide"
+        },
+        {
+          "badge": "신규",
+          "title": "핀란드 신화",
+          "description": "Peikko 트롤, Hiisi 숲, Nakki 물의 정령, 그리고 게임의 바탕이 된 Kalevala.",
+          "href": "/mechanics/among-the-trolls-finnish-mythology"
+        },
+        {
+          "badge": "출시",
+          "title": "출시일",
+          "description": "출시 날짜, 가격, 할인 기간, 그리고 첫날 제공된 콘텐츠.",
+          "href": "/release/among-the-trolls-release-date"
+        },
+        {
+          "badge": "사양",
+          "title": "시스템 요구 사항",
+          "description": "공식 최소 및 권장 PC 사양, 저장 공간, Steam Deck 지원 현황.",
+          "href": "/release/among-the-trolls-system-requirements"
+        },
+        {
+          "badge": "커뮤니티",
+          "title": "공식 디스코드",
+          "description": "Among the Trolls 커뮤니티가 생존 경로와 패치 노트를 공유하는 곳입니다.",
+          "href": "/community/among-the-trolls-discord"
+        },
+        {
+          "badge": "미디어",
+          "title": "공식 출시 트레일러",
+          "description": "출시 트레일러와 핀란드 야생, 그리고 그 생명체들이 담긴 모습.",
+          "href": "/media/among-the-trolls-official-launch-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Among the Trolls란?",
+      "paragraphs": [
+        "Among the Trolls는 안개 낀 핀란드 야생을 배경으로 한 1인칭 생존 어드벤처입니다. 당신은 외딴 가족 오두막으로 돌아온 손주가 되어, 할아버지가 사라진 사실과 채집과 건설, 그리고 소나무 사이에서 당신을 지켜보는 민담으로 가득한 숲을 마주합니다. 개발사 Avantgarden SRL은 좀비나 약탈자 대신 핀란드 신화를 중심으로 세계를 만들었기에, 마주치는 위협은 영역을 지키는 트롤과 숲의 정령, 그리고 예고 없이 몰아치는 날씨입니다.",
+        "진행은 제작과 준비를 통해 이루어집니다. 나무와 돌, 식물 섬유를 모으고 어두워지기 전에 은신처를 세우며, Vaki(마법)와 Lykky(행운)라는 두 민담 시스템을 균형 있게 다뤄 무엇을 시도할 수 있고 각 원정이 얼마나 위험해질지 결정합니다. 이 게임은 2026년 10월 14일 Windows PC Steam으로 정식 출시되었고, 19.99달러의 싱글 플레이어 캠페인으로 14개의 Steam 도전 과제, 영어 음성, 11개 인터페이스 언어 자막을 지원합니다. 저희 Among the Trolls 위키는 시스템과 신화, 실전 생존 경로를 한곳에 모았습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Avantgarden SRL"
+        },
+        {
+          "label": "퍼블리셔",
+          "value": "505 Pulse"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Windows PC / Steam"
+        },
+        {
+          "label": "출시",
+          "value": "2026년 10월 14일"
+        },
+        {
+          "label": "장르",
+          "value": "생존 어드벤처"
+        },
+        {
+          "label": "가격",
+          "value": "19.99달러"
+        },
+        {
+          "label": "도전 과제",
+          "value": "14"
+        },
+        {
+          "label": "언어",
+          "value": "11"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "Among the Trolls 살펴보기",
+      "description": "Among the Trolls의 주요 시스템을 한곳에 모았습니다. 초보자 생존, 제작과 건설, Vaki와 Lykky 마법, 스토리 캠페인, 핀란드 신화, PC 요구 사항, 그리고 판을 유지시켜 주는 실전 팁까지.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Among the Trolls 초보자 가이드",
+          "description": "Among the Trolls가 처음인가요? 게임 첫날의 진행 순서입니다. 오두막 주변 공터를 정찰하고, 흩어진 재료를 챙기고, 자르는 도구와 불을 피울 도구를 제작한 뒤, 해가 지기 전에 지붕과 배를 채우세요.",
+          "href": "/guide/among-the-trolls-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "오두막 주변을 정찰하고 물, 바위 노출지, 고사목 같은 지형지물을 기억하세요"
+            },
+            {
+              "label": "2",
+              "detail": "숲 바닥에서 막대기, 돌, 식물 섬유 등 흩어진 재료를 모으세요"
+            },
+            {
+              "label": "3",
+              "detail": "먼저 자르는 도구를, 다음으로 온기와 요리를 위한 불 피우기 도구를 제작하세요"
+            },
+            {
+              "label": "4",
+              "detail": "어두워지기 전에 화덕과 보관 상자 하나를 갖춘 작은 은신처를 세우세요"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Among the Trolls 제작 가이드",
+          "description": "제작은 Among the Trolls의 척추입니다. 각 재료 계열의 용도, 제작 루프의 단계, 그리고 모은 나무와 돌, 섬유, 동물 재료가 도구와 은신처, 보관함, 이동 장비로 바뀌는 과정을 익히세요.",
+          "href": "/mechanics/among-the-trolls-crafting",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "도구",
+              "detail": "기본 칼날 하나가 효율적인 목재 채집과 그 이후의 모든 것을 열어줍니다"
+            },
+            {
+              "label": "불",
+              "detail": "횃불과 화덕은 온기, 요리, 빛, 그리고 밤의 안전을 제공합니다"
+            },
+            {
+              "label": "은신처",
+              "detail": "비를 막는 지붕과 잠자리, 화덕이 야영지를 버틸 수 있는 기지로 만듭니다"
+            },
+            {
+              "label": "보관",
+              "detail": "보관 용기가 인벤토리 공간을 확보해 채집 원정이 일찍 끝나지 않게 합니다"
+            },
+            {
+              "label": "이동",
+              "detail": "휴대용 조명과 업그레이드한 무기가 안전한 탐험 반경을 넓혀 줍니다"
+            },
+            {
+              "label": "의식",
+              "detail": "준비된 조명과 의식용 장비는 창으로는 맞설 수 없는 위협에 대응합니다"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Among the Trolls 생존 팁",
+          "description": "Among the Trolls의 야생은 서두르는 플레이를 벌합니다. 체력, 스태미나, 배고픔, 갈증, 온기를 관리하고 위협을 유도하는 야영지를 세우며, 싸움을 걸기 전에 트롤과 정령, 포식성 야생동물의 행동을 익히세요.",
+          "href": "/guide/among-the-trolls-survival-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "온기",
+              "detail": "첫 주에는 업그레이드 목록에서 무기보다 은신처와 불이 우선입니다"
+            },
+            {
+              "label": "물",
+              "detail": "호수나 개울 근처에 지어 갈증 때문에 먼 길을 떠나지 않게 하세요"
+            },
+            {
+              "label": "음식",
+              "detail": "조리한 식사를 하나 남겨 두고 매 원정 전에 보급을 채우세요"
+            },
+            {
+              "label": "스태미나",
+              "detail": "일 사이는 걸어 다니고 질주는 위협에서 도망칠 때만 쓰세요"
+            },
+            {
+              "label": "밤",
+              "detail": "어두워지기 전에 방어선 안으로 돌아오도록 이동을 계획하세요"
+            },
+            {
+              "label": "후퇴",
+              "detail": "일찍 후퇴하세요. 치료는 싸움을 피하는 것보다 자원이 더 듭니다"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Among the Trolls Vaki와 Lykky 가이드",
+          "description": "Vaki와 Lykky는 모든 플레이에서 균형을 맞춰야 하는 두 민담의 힘입니다. Vaki는 사람과 장소, 사물이 지닌 애니미즘적 힘이고, Lykky는 개인의 행운과 수호령입니다. 둘이 함께 무엇을 시도할 수 있고 언제 멈춰야 하는지를 결정합니다.",
+          "href": "/mechanics/among-the-trolls-finnish-mythology",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vaki",
+              "detail": "소모하고 다시 채우거나 존중해야 하는 유한한 애니미즘적 힘"
+            },
+            {
+              "label": "Lykky",
+              "detail": "위험한 결과를 좌우하는 개인의 행운과 수호령"
+            },
+            {
+              "label": "Haltija",
+              "detail": "장소나 집안의 수호령: 땅을 거두기 전에 먼저 인사를 건네세요"
+            },
+            {
+              "label": "Luonto",
+              "detail": "캐릭터가 견디는 한계를 결정하는 내면의 본성과 타고난 강함"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Among the Trolls 스토리와 퀘스트 가이드",
+          "description": "Among the Trolls에 형태를 부여하는 캠페인을 따라가세요. 핀란드 군도 전역에서 실종된 할아버지를 찾는 안나의 여정을 추적하고, 제작 가능한 다리로 새 경로를 열며, 해금에 필요한 탐험을 건너뛰지 않고 스토리 이정표를 순서대로 유지하세요.",
+          "href": "/guide/among-the-trolls-demo-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "할아버지의 외딴 오두막에 도착해 첫 단서를 찾아 뒤져 보세요"
+            },
+            {
+              "label": "2",
+              "detail": "핀란드 군도로 이어지는 흔적을 따라가며 지나치는 지형지물을 지도에 표시하세요"
+            },
+            {
+              "label": "3",
+              "detail": "물 위로 길을 열고 새 스토리 지역에 닿을 수 있게 제작 가능한 다리를 세우세요"
+            },
+            {
+              "label": "4",
+              "detail": "곁길 탐험을 건너뛰지 않으면서 각 퀘스트 단계마다 안나의 가족 미스터리를 추적하세요"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Among the Trolls 생명체와 핀란드 신화",
+          "description": "Among the Trolls는 Kalevala와 핀란드 민간 신앙에서 등장인물을 가져옵니다. Peikko 트롤, Hiisi 숲, Nakki 물의 정령, Menninkainen을 비교하고 각 존재가 숲을 지나는 방식을 어떻게 바꾸는지 확인하세요.",
+          "href": "/mechanics/among-the-trolls-forest-exploration",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Peikko - 게임 이름의 유래가 된 트롤: 거대하고 영역적이며 장비를 갖추기 전에는 피하는 게 좋습니다"
+            },
+            {
+              "label": "A",
+              "detail": "Hiisi 숲과 Nakki 물의 정령 - 부주의한 경로를 벌하는 으스스한 장소"
+            },
+            {
+              "label": "B",
+              "detail": "Menninkainen - 속도를 늦추고 관찰할 때만 눈에 띄는 은밀한 숲의 존재"
+            },
+            {
+              "label": "C",
+              "detail": "Haltija와 Tapio - 공격보다 존중을 보상하는 수호적 존재"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Among the Trolls PC 요구 사항",
+          "description": "구매 전에 공식 최소 및 권장 Among the Trolls PC 사양을 확인하세요. 운영체제, 프로세서, 그래픽카드, 메모리, DirectX, 저장 공간과 함께 Steam Deck 지원 현황, 컨트롤러 지원, 출시 가격을 비교하세요.",
+          "href": "/release/among-the-trolls-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "운영체제",
+              "detail": "최소와 권장 모두 Windows 10 Home 64비트"
+            },
+            {
+              "label": "CPU",
+              "detail": "최소 Intel Core i5-10400 또는 AMD Ryzen 5 1600, 권장 i7-10700K 또는 Ryzen 7 4800H"
+            },
+            {
+              "label": "RAM",
+              "detail": "최소 16GB, 빽빽한 숲에서 안정적인 프레임을 위해 권장 32GB"
+            },
+            {
+              "label": "GPU",
+              "detail": "최소 GTX 1070 또는 RX 5600XT, 권장 RTX 2080 Ti 또는 RX 7700XT"
+            },
+            {
+              "label": "저장 공간",
+              "detail": "30GB의 여유 공간, 두 등급 모두 SSD를 강력히 권장"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Among the Trolls 팁과 요령",
+          "description": "깔끔한 플레이와 시체까지의 긴 걸음을 가르는 습관들. 신뢰할 수 있는 채집 경로, 재료를 재투자할 시점, 장식보다 방어가 먼저인 이유, 낮과 밤 주기에 맞춘 이동 계획을 익히세요.",
+          "href": "/mechanics/among-the-trolls-survival-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "경로",
+              "detail": "신뢰할 수 있는 채집 경로 두세 개를 익히고 돌아다니는 대신 순환하세요"
+            },
+            {
+              "label": "비축",
+              "detail": "레시피가 열리면 남는 재료를 바로 도구와 업그레이드로 바꾸세요"
+            },
+            {
+              "label": "방어",
+              "detail": "장식보다 방어선을 먼저 세우세요. 미완성 장롱집은 아무것도 지켜주지 않습니다"
+            },
+            {
+              "label": "일광",
+              "detail": "빛이 사라지기 전에 돌아오도록 모든 원정을 계획하세요"
+            },
+            {
+              "label": "조명",
+              "detail": "밤에는 시야가 크게 떨어지므로 횃불과 여분 연료를 챙기세요"
+            },
+            {
+              "label": "인내",
+              "detail": "정보가 공격보다 낫습니다. 순찰하는 모습을 먼저 관찰하세요"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Among the Trolls FAQ",
+      "description": "Among the Trolls에 대해 새 플레이어가 가장 많이 묻는 질문에 간결하게 답했습니다.",
+      "items": [
+        {
+          "question": "Among the Trolls는 어떤 게임인가요?",
+          "answer": "Among the Trolls는 개발사 Avantgarden SRL이 만들고 505 Pulse와 505 Games가 퍼블리싱한 1인칭 생존 어드벤처입니다. 외딴 핀란드 오두막으로 돌아왔지만 할아버지는 사라졌고, 이후 주변 야생에서 채집과 제작, 은신처 건설, 그리고 숲을 공유하는 민담적 위협을 읽어내며 살아남아야 합니다."
+        },
+        {
+          "question": "Among the Trolls는 멀티플레이를 지원하나요?",
+          "answer": "아니요. Among the Trolls는 출시 시점 기준 싱글 플레이 전용이며 온라인 협동, 로컬 분할 화면, Remote Play Together를 지원하지 않습니다. 안나의 이야기는 한 명의 플레이어를 위해 쓰였고, Steam 클라우드 저장, 가족 공유, 14개의 Steam 도전 과제는 지원됩니다."
+        },
+        {
+          "question": "Among the Trolls의 가격은 얼마인가요?",
+          "answer": "Among the Trolls는 19.99달러에 출시되었고, 15% 출시 할인으로 10월 28일까지 16.99달러였습니다. 별도 판매되는 Among the Trolls 사운드트랙은 3.99달러이며, 디럭스 에디션이나 시즌 패스는 없습니다."
+        },
+        {
+          "question": "Among the Trolls의 시스템 요구 사항은 무엇인가요?",
+          "answer": "최소 사양은 Windows 10 Home 64비트, Intel Core i5-10400 또는 AMD Ryzen 5 1600, 16GB RAM, GTX 1070 또는 RX 5600XT, DirectX 12, 30GB 저장 공간입니다. 권장 사양은 i7-10700K 또는 Ryzen 7 4800H, 32GB RAM, RTX 2080 Ti 또는 RX 7700XT입니다. 두 등급 모두 SSD를 권장합니다."
+        },
+        {
+          "question": "Among the Trolls는 어떤 플랫폼에서 실행되나요?",
+          "answer": "Among the Trolls는 Steam을 통해 Windows PC로 출시되었습니다. 출시 시점에 PlayStation, Xbox, Switch 스토어 페이지는 없고, macOS와 Linux는 목록에 없으며, Valve는 Steam Deck 호환성을 알 수 없음으로 표시합니다. Xbox 컨트롤러는 지원됩니다."
+        },
+        {
+          "question": "Among the Trolls의 Vaki와 Lykky는 무엇인가요?",
+          "answer": "Vaki는 사람과 장소, 사물이 지닌 애니미즘적 힘으로, 소모하고 존중해야 하는 자원처럼 작동합니다. Lykky는 개인의 행운이자 수호령으로, 위험한 결과에 변동을 주는 요소입니다. 둘이 함께 어떤 계획이 숲과의 접촉을 견뎌낼지 결정합니다."
+        },
+        {
+          "question": "Among the Trolls에 튜토리얼이 있나요?",
+          "answer": "친절하게 알려주는 방식의 튜토리얼은 없습니다. 시작 오두막 주변 지역은 필요한 기본 재료가 갖춰져 있어 사실상 완만한 튜토리얼 역할을 합니다. 숲 깊이 들어가기 전에 첫 30분을 그곳에서 제작과 생존 메뉴를 익히는 데 쓰세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "트롤들 사이에서 살아남을 준비가 되셨나요?",
+      "description": "첫 모닥불부터 핀란드 야생의 가장 깊은 구석까지, 저희 커뮤니티 위키가 무료로 최신 가이드를 제공합니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Among the Trolls 가이드",
+    "overviewDescription": "Among the Trolls의 초보자 가이드, 공략, 생존 팁을 모았습니다. 숲에서의 첫 며칠, 모닥불 피우는 법, 데모 전체 플레이까지 다룹니다."
+  },
+  "release": {
+    "overviewTitle": "Among the Trolls 출시 정보",
+    "overviewDescription": "Among the Trolls의 출시일, 얼리 액세스 현황, 데모 정보, Steam 페이지, 컨트롤러 지원과 시스템 요구 사항."
+  },
+  "mechanics": {
+    "overviewTitle": "Among the Trolls 게임 시스템",
+    "overviewDescription": "Among the Trolls의 플레이 방식: 생존 게임플레이, 제작, 모닥불, 오픈 월드 숲 탐험, 그리고 세계를 빚어내는 핀란드 신화."
+  },
+  "platforms": {
+    "overviewTitle": "Among the Trolls 플랫폼",
+    "overviewDescription": "PS5, Xbox Series X, Switch를 포함해 Among the Trolls를 즐길 수 있는 곳과 친구와의 멀티플레이 협동 방식."
+  },
+  "community": {
+    "overviewTitle": "Among the Trolls 커뮤니티",
+    "overviewDescription": "공식 Among the Trolls 커뮤니티 허브, 개발자 업데이트, 디스코드, 레딧, 그리고 게임 사운드트랙."
+  },
+  "media": {
+    "overviewTitle": "Among the Trolls 미디어",
+    "overviewDescription": "Among the Trolls의 트레일러와 영상. 공개 트레일러, 게임플레이 트레일러, 공식 출시 트레일러를 포함합니다."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "latestRelease": "최신 출시",
+    "updated": "업데이트",
+    "viewAllRelease": "출시 정보 보기",
+    "playOnSteam": "Steam에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 제공되는 가이드가 없습니다. 곧 다시 확인해 주세요!",
+    "notFoundTitle": "페이지를 찾을 수 없습니다",
+    "notFoundDescription": "찾으시는 가이드가 이동되었거나 아직 추가되지 않았을 수 있습니다.",
+    "browseGuides": "가이드 둘러보기"
+  },
+  "footer": {
+    "aboutTitle": "Among the Trolls 위키",
+    "about": "Among the Trolls 위키는 생존 시스템, 제작, 숲 탐험, 핀란드 신화, 그리고 게임의 핵심 지식을 다루는 독립 팬 제작 가이드 허브로, 신규와 숙련 플레이어 모두를 위한 곳입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Among the Trolls 위키. AvantGarden Games 및 505 Pulse와 관련이 없습니다.",
+    "description": "핀란드 야생을 배경으로 한 1인칭 생존 어드벤처. 탐험하고, 제작하고, 트롤들 사이에서 살아남으세요.",
+    "playGame": "Steam에서 Among the Trolls 플레이",
+    "officialDiscord": "공식 디스코드",
+    "officialSteam": "Steam 커뮤니티",
+    "officialReddit": "공식 레딧",
+    "officialYoutube": "공식 유튜브",
+    "vvBuilder": "공식 웹사이트",
+    "beginnerGuide": "초보자 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관",
+    "mechanicsGuides": "생존 시스템",
+    "platformsGuides": "플랫폼 & 멀티플레이",
+    "releaseGuides": "출시 & 데모"
+  },
+  "legal": {
+    "aboutTitle": "소개",
+    "aboutP1": "Among the Trolls 위키는 생존 시스템, 제작, 숲 탐험, 핀란드 신화, 그리고 게임의 핵심 지식을 다루는 독립 팬 제작 가이드 허브로, 신규와 숙련 플레이어 모두를 위한 곳입니다.",
+    "aboutP2": "Among the Trolls는 핀란드 야생을 배경으로 한 1인칭 생존 어드벤처로, AvantGarden Games가 개발하고 505 Pulse가 퍼블리싱했습니다. 이 팬 위키는 개발사나 퍼블리셔와 관련이 없습니다.",
+    "privacyTitle": "개인정보 처리방침",
+    "privacyP1": "이 팬 위키는 Among the Trolls에 대한 정보성 게임 가이드를 제공합니다. 계정 자격 증명, Steam 비밀번호, 개인 결제 정보를 요구하지 않습니다.",
+    "privacyP2": "분석, 광고, 호스팅 제공업체는 기기 유형, 브라우저, 대략적인 지역, 방문한 페이지 등 일반적인 기술 정보를 처리할 수 있습니다.",
+    "privacyP3": "외부 링크는 Steam, Among the Trolls 공식 웹사이트, 디스코드, 유튜브 또는 커뮤니티 도구로 이어질 수 있습니다. 해당 서비스에는 자체 개인정보 처리방침이 적용됩니다.",
+    "termsTitle": "이용약관",
+    "termsP1": "이 사이트는 독립적인 팬 제작 가이드 허브입니다. 콘텐츠는 정보 제공과 오락 목적으로만 제공됩니다.",
+    "termsP2": "게임 시스템, 제작 레시피, 업데이트, 출시 정보는 예고 없이 바뀔 수 있습니다. 중요한 정보는 항상 게임 내에서 또는 공식 채널을 통해 확인하세요.",
+    "termsP3": "이 사이트를 이용함으로써 귀하는 이를 악용하거나 무단 접근을 시도하거나, 이 팬 위키를 AvantGarden Games 또는 505 Pulse의 공식 자산으로 제시하지 않기로 동의합니다.",
+    "copyrightTitle": "저작권",
+    "copyrightP1": "Among the Trolls와 그 로고, 아트워크, 관련 미디어는 AvantGarden Games와 505 Pulse에 속합니다. 모든 상표와 저작권은 각 소유자에게 있습니다.",
+    "copyrightP2": "이 클론은 교육 및 가이드 제공 목적의 비공식 팬 위키 구현물입니다.",
+    "copyrightP3": "여기에 표시된 콘텐츠의 권리를 보유하고 있으며 우려가 있다면 support@amongthetrolls.top으로 연락해 주시면 검토하겠습니다."
+  }
+}
