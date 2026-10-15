@@ -40,6 +40,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://x.com/AmongTheTrolls",
     tiktok: "https://www.tiktok.com/@amongthetrolls",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "ko"],
   defaultLocale: "en",
 };
